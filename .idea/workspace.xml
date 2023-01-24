@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2032f76a-9833-44df-af72-21931eeae4da" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exam2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MultilevelInheritanceDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exam_2/AbstractDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exam_2/Aggeragtion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exam_2/EncupsulationDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exam_2/MoreInterFaceEg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exam_2/MultipleCatchBlockDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exam_2/PasswordProgram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exam_2/ThreadDemo.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2KkwkVzAmg1fouMbGdWwajR7NMr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "dart.analysis.tool.window.visible": "false"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.PasswordProgram">
+    <configuration name="Aggeragtion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exam_2.Aggeragtion" />
+      <module name="Exam2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exam_2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EncupsulationDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exam_2.EncupsulationDemo" />
+      <module name="Exam2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exam_2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MoreInterFaceEg" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exam_2.MoreInterFaceEg" />
+      <module name="Exam2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exam_2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MultipleCatchBlockDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exam_2.MultipleCatchBlockDemo" />
+      <module name="Exam2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exam_2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PasswordProgram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exam_2.PasswordProgram" />
+      <module name="Exam2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exam_2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.PasswordProgram" />
+        <item itemvalue="Application.Aggeragtion" />
+        <item itemvalue="Application.MultipleCatchBlockDemo" />
+        <item itemvalue="Application.EncupsulationDemo" />
+        <item itemvalue="Application.MoreInterFaceEg" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2032f76a-9833-44df-af72-21931eeae4da" name="Changes" comment="" />
+      <created>1674532032225</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1674532032225</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
